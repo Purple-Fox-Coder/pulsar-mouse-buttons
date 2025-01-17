@@ -80,6 +80,7 @@
     "v8_use_siphash": 1,
     "want_separate_host_toolset": 0,
     "nodedir": "C:\\Users\\purpl\\AppData\\Local\\node-gyp\\Cache\\16.0.0",
+    "python": "C:\\Users\\purpl\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe",
     "standalone_static_library": 1,
     "msbuild_path": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\BuildTools\\MSBuild\\15.0\\Bin\\MSBuild.exe"
   }
