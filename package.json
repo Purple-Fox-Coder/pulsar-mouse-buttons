@@ -1,21 +1,24 @@
 {
-  "name": "mouse-history-buttons",
-  "main": "./lib/mouse-history-buttons",
+  "name": "pulsar-mouse-buttons",
+  "main": "./lib/mouseButtons.js",
   "version": "0.2.1",
-  "description": "[Linux ONLY] Allows to map the back and forward mouse buttons (button8 and button9) to atom commands",
+  "description": " Allows mapping of mouse buttons in pulsar ",
   "keywords": [
     "mouse",
     "history",
+    "button4",
+    "button5",
     "button8",
     "button9",
-    "linux"
+    "linux",
+    "windows"
   ],
-  "repository": "git@github.com:paradoxxxzero/atom-mouse-history-buttons.git",
+  "repository": "https://github.com/Purple-Fox-Coder/pulsar-mouse-buttons.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "mouse-forward-back": "^1.0.1"
+    "mouseDetect": "./lib/mouseDetect"
   }
 }

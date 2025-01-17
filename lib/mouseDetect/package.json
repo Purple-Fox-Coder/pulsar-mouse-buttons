@@ -1,0 +1,18 @@
+{
+  "name": "mouseDetect",
+  "version": "0.0.1",
+  "description": "Sub module for pulsar-mouse-buttons, may move out later.",
+  "repository": "https://github.com/Purple-Fox-Coder/pulsar-mouse-buttons.git",
+  "main": "mouseDetect.js",
+  "gypfile": true,
+  "license": "MIT",
+  "scripts": {
+    "install": "node-gyp rebuild",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bindings": "^1.2.1",
+    "nan": "*",
+    "node-gyp": "^11.0.0"
+  }
+}
