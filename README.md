@@ -21,9 +21,9 @@ Make sure you have the following:
 
 if you need guidance to install these, follow the [install guide](./docs/install.md).
 
-supported platforms' build instructions:
-[WINDOWS](./docs/windowsBuild.md)
-[LINUX](./docs/linuxBuild.md)
+supported platforms' build instructions:  
+[WINDOWS](./docs/windowsBuild.md)  
+[LINUX](./docs/linuxBuild.md)  
 
 Mac is currently not supported, nor do I plan to as I cannot test it.  If you wish to add mac support you are welcome to submit pull requests with your proposed changes.
 
